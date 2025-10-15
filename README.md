@@ -14,7 +14,6 @@ To write a program to find the solution of a matrix using Gaussian Elimination.
 4. 
 
 ## Program:
-```
 /*
 Program to find the solution of a matrix using Gaussian Elimination.
 Developed by: Harini M 
