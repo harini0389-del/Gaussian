@@ -20,14 +20,12 @@ Program to find the solution of a matrix using Gaussian Elimination.
 Developed by: Harini M 
 RegisterNumber: 25001011
 */
-<img width="853" height="612" alt="image" src="https://github.com/user-attachments/assets/0b3e552d-f698-433c-b21d-23eed2b3e8b2" />
-
-
+<img width="978" height="642" alt="image" src="https://github.com/user-attachments/assets/00e83926-da0a-4500-a5c8-7324ea2d0c35" />
 
 
 ## Output:
 ![gaussian elimination]()
-<img width="967" height="456" alt="image" src="https://github.com/user-attachments/assets/75e5804a-b3f3-47f9-aa66-9c8d4a496da5" />
+<img width="873" height="455" alt="image" src="https://github.com/user-attachments/assets/e1a6f24b-8488-4611-ad50-be9f3d77352d" />
 
 
 
