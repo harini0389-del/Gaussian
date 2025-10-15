@@ -26,7 +26,6 @@ RegisterNumber: 25001011
 
 ## Output:
 ![gaussian elimination]()
-*/
 <img width="936" height="433" alt="image" src="https://github.com/user-attachments/assets/21c8796c-6a25-483e-bbb5-79bfd817edc9" />
 
 
