@@ -19,9 +19,9 @@ To write a program to find the solution of a matrix using Gaussian Elimination.
 Program to find the solution of a matrix using Gaussian Elimination.
 Developed by: Harini M 
 RegisterNumber: 25001011
-*/<img width="613" height="585" alt="image" src="https://github.com/user-attachments/assets/f61c0d77-a518-4c2a-ab22-5b390d381cb2" />
+<img width="613" height="585" alt="image" src="https://github.com/user-attachments/assets/f61c0d77-a518-4c2a-ab22-5b390d381cb2" />
 
-```
+
 
 ## Output:
 ![gaussian elimination]()
